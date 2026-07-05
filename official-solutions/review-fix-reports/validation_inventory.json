@@ -1,0 +1,443 @@
+{
+  "years": {
+    "2012": {
+      "year": 2012,
+      "zip": "2012_RA_official+solutions_package.zip",
+      "zip_md": [
+        "2012_RA_official+solutions.md"
+      ],
+      "zip_png": [
+        "2012_RA_solution_images_29_1.png",
+        "2012_RA_solution_images_31_1.png",
+        "2012_RA_solution_images_34_1.png",
+        "2012_RA_solution_images_35_1.png"
+      ],
+      "zip_other": [],
+      "pdf": "법전협_2012 LEET 해설_추리논증.pdf",
+      "pdf_pages": 93,
+      "pdf_textlayer_chars_first3": 0,
+      "review_report": "2012-2014_RA_solutions_review_report.md",
+      "existing_output": false
+    },
+    "2013": {
+      "year": 2013,
+      "zip": "2013_RA_official+solutions_package.zip",
+      "zip_md": [
+        "2013_RA_official+solutions.md"
+      ],
+      "zip_png": [
+        "2013_RA_solution_images_13_1.png"
+      ],
+      "zip_other": [],
+      "pdf": "법전협_2013 LEET 해설_추리논증.pdf",
+      "pdf_pages": 82,
+      "pdf_textlayer_chars_first3": 0,
+      "review_report": "2012-2014_RA_solutions_review_report.md",
+      "existing_output": false
+    },
+    "2014": {
+      "year": 2014,
+      "zip": "2014_RA_official+solutions_package.zip",
+      "zip_md": [
+        "2014_RA_official+solutions.md"
+      ],
+      "zip_png": [
+        "2014_RA_solution_images_21_1.png",
+        "2014_RA_solution_images_32_1.png"
+      ],
+      "zip_other": [],
+      "pdf": "법전협_2014 LEET 해설_추리논증.pdf",
+      "pdf_pages": 70,
+      "pdf_textlayer_chars_first3": 0,
+      "review_report": "2012-2014_RA_solutions_review_report.md",
+      "existing_output": false
+    },
+    "2015": {
+      "year": 2015,
+      "zip": "2015_RA_official+solutions_package.zip",
+      "zip_md": [
+        "2015_RA_official+solutions.md"
+      ],
+      "zip_png": [
+        "2015_RA_solution_images_17_1.png",
+        "2015_RA_solution_images_18_1.png"
+      ],
+      "zip_other": [],
+      "pdf": "법전협_2015 LEET 해설_추리논증.pdf",
+      "pdf_pages": 81,
+      "pdf_textlayer_chars_first3": 0,
+      "review_report": "2015-2017_RA_solutions_review_report.md",
+      "existing_output": false
+    },
+    "2016": {
+      "year": 2016,
+      "zip": "2016_RA_official+solutions_package.zip",
+      "zip_md": [
+        "2016_RA_official+solutions.md"
+      ],
+      "zip_png": [
+        "2016_RA_solution_images_31_1.png",
+        "2016_RA_solution_images_31_2.png",
+        "2016_RA_solution_images_31_3.png",
+        "2016_RA_solution_images_34_1.png",
+        "2016_RA_solution_images_34_2.png",
+        "2016_RA_solution_images_34_3.png",
+        "2016_RA_solution_images_35_1.png"
+      ],
+      "zip_other": [],
+      "pdf": "법전협_2016 LEET 해설_추리논증.pdf",
+      "pdf_pages": 82,
+      "pdf_textlayer_chars_first3": 0,
+      "review_report": "2015-2017_RA_solutions_review_report.md",
+      "existing_output": false
+    },
+    "2017": {
+      "year": 2017,
+      "zip": "2017_RA_official+solutions_package.zip",
+      "zip_md": [
+        "2017_RA_official+solutions.md"
+      ],
+      "zip_png": [
+        "2017_RA_solution_images_18_1.png",
+        "2017_RA_solution_images_19_1.png",
+        "2017_RA_solution_images_20_1.png",
+        "2017_RA_solution_images_20_2.png",
+        "2017_RA_solution_images_20_3.png",
+        "2017_RA_solution_images_20_4.png",
+        "2017_RA_solution_images_21_1.png",
+        "2017_RA_solution_images_21_2.png",
+        "2017_RA_solution_images_21_3.png"
+      ],
+      "zip_other": [],
+      "pdf": "법전협_2017 LEET 해설_추리논증.pdf",
+      "pdf_pages": 74,
+      "pdf_textlayer_chars_first3": 0,
+      "review_report": "2015-2017_RA_solutions_review_report.md",
+      "existing_output": false
+    },
+    "2018": {
+      "year": 2018,
+      "zip": "2018_RA_official+solutions_package.zip",
+      "zip_md": [
+        "2018_RA_official+solutions.md"
+      ],
+      "zip_png": [
+        "2018_RA_solution_images_26_1.png"
+      ],
+      "zip_other": [],
+      "pdf": "법전협_2018 LEET 해설_추리논증.pdf",
+      "pdf_pages": 75,
+      "pdf_textlayer_chars_first3": 0,
+      "review_report": "2018-2020_RA_solutions_review_report.md",
+      "existing_output": false
+    },
+    "2019": {
+      "year": 2019,
+      "zip": "2019_RA_official+solutions_package.zip",
+      "zip_md": [
+        "2019_RA_official+solutions.md"
+      ],
+      "zip_png": [
+        "2019_RA_solution_images_31_1.png",
+        "2019_RA_solution_images_31_2.png",
+        "2019_RA_solution_images_31_3.png",
+        "2019_RA_solution_images_32_1.png",
+        "2019_RA_solution_images_32_2.png",
+        "2019_RA_solution_images_32_3.png",
+        "2019_RA_solution_images_32_4.png"
+      ],
+      "zip_other": [],
+      "pdf": "법전협_2019 LEET 해설_추리논증.pdf",
+      "pdf_pages": 86,
+      "pdf_textlayer_chars_first3": 0,
+      "review_report": "2018-2020_RA_solutions_review_report.md",
+      "existing_output": false
+    },
+    "2020": {
+      "year": 2020,
+      "zip": "2020_RA_official+solutions_package.zip",
+      "zip_md": [
+        "2020_RA_official+solutions.md"
+      ],
+      "zip_png": [
+        "2020_RA_solution_images_16_1.png",
+        "2020_RA_solution_images_16_2.png",
+        "2020_RA_solution_images_28_1.png",
+        "2020_RA_solution_images_31_1.png",
+        "2020_RA_solution_images_31_2.png",
+        "2020_RA_solution_images_40_1.png"
+      ],
+      "zip_other": [],
+      "pdf": "법전협_2020 LEET 해설_추리논증.pdf",
+      "pdf_pages": 88,
+      "pdf_textlayer_chars_first3": 0,
+      "review_report": "2018-2020_RA_solutions_review_report.md",
+      "existing_output": false
+    },
+    "2021": {
+      "year": 2021,
+      "zip": "2021_RA_official+solutions_package.zip",
+      "zip_md": [
+        "2021_RA_official+solutions.md"
+      ],
+      "zip_png": [
+        "2021_RA_solution_images_21_1.png",
+        "2021_RA_solution_images_21_2.png",
+        "2021_RA_solution_images_21_3.png",
+        "2021_RA_solution_images_22_1.png"
+      ],
+      "zip_other": [],
+      "pdf": "법전협_2021 LEET 해설_추리논증.pdf",
+      "pdf_pages": 90,
+      "pdf_textlayer_chars_first3": 0,
+      "review_report": "2021-2023_RA_solutions_review_report.md",
+      "existing_output": false
+    },
+    "2022": {
+      "year": 2022,
+      "zip": "2022_RA_official+solutions_package.zip",
+      "zip_md": [
+        "2022_RA_official+solutions.md"
+      ],
+      "zip_png": [
+        "2022_RA_solution_images_37_1.png"
+      ],
+      "zip_other": [],
+      "pdf": "법전협_2022 LEET 해설_추리논증.pdf",
+      "pdf_pages": 95,
+      "pdf_textlayer_chars_first3": 0,
+      "review_report": "2021-2023_RA_solutions_review_report.md",
+      "existing_output": false
+    },
+    "2023": {
+      "year": 2023,
+      "zip": "2023_RA_official+solutions_package.zip",
+      "zip_md": [
+        "2023_RA_official+solutions.md",
+        "2023_RA_work_report.md"
+      ],
+      "zip_png": [
+        "2023_RA_solution_images_32_1.png",
+        "2023_RA_solution_images_32_2.png",
+        "2023_RA_solution_images_32_3.png",
+        "2023_RA_solution_images_32_4.png",
+        "2023_RA_solution_images_32_5.png",
+        "2023_RA_solution_images_32_6.png",
+        "2023_RA_solution_images_34_1.png",
+        "2023_RA_solution_images_34_2.png",
+        "2023_RA_solution_images_34_3.png",
+        "2023_RA_solution_images_34_4.png",
+        "2023_RA_solution_images_34_5.png"
+      ],
+      "zip_other": [],
+      "pdf": "법전협_2023 LEET 해설_추리논증.pdf",
+      "pdf_pages": 94,
+      "pdf_textlayer_chars_first3": 0,
+      "review_report": "2021-2023_RA_solutions_review_report.md",
+      "existing_output": false
+    },
+    "2024": {
+      "year": 2024,
+      "zip": "2024_RA_official_solutions_package.zip",
+      "zip_md": [
+        "2024_RA_official+solutions.md"
+      ],
+      "zip_png": [
+        "2024_RA_solution_images_15_1.png",
+        "2024_RA_solution_images_34_1.png",
+        "2024_RA_solution_images_34_2.png",
+        "2024_RA_solution_images_34_3.png",
+        "2024_RA_solution_images_34_4.png",
+        "2024_RA_solution_images_35_1.png",
+        "2024_RA_solution_images_35_2.png"
+      ],
+      "zip_other": [],
+      "pdf": "법전협_2024 LEET 해설_추리논증.pdf",
+      "pdf_pages": 94,
+      "pdf_textlayer_chars_first3": 0,
+      "review_report": "2024-2026_RA_solutions_review_report.md",
+      "existing_output": false
+    },
+    "2025": {
+      "year": 2025,
+      "zip": "2025_RA_official+solutions_package.zip",
+      "zip_md": [
+        "2025_RA_official+solutions.md"
+      ],
+      "zip_png": [
+        "2025_RA_solution_images_11_1.png",
+        "2025_RA_solution_images_11_2.png",
+        "2025_RA_solution_images_32_1.png",
+        "2025_RA_solution_images_33_1.png",
+        "2025_RA_solution_images_33_2.png",
+        "2025_RA_solution_images_34_1.png",
+        "2025_RA_solution_images_34_2.png",
+        "2025_RA_solution_images_34_3.png",
+        "2025_RA_solution_images_34_4.png",
+        "2025_RA_solution_images_34_5.png",
+        "2025_RA_solution_images_34_6.png",
+        "2025_RA_solution_images_35_1.png",
+        "2025_RA_solution_images_35_2.png",
+        "2025_RA_solution_images_35_3.png",
+        "2025_RA_solution_images_35_4.png",
+        "2025_RA_solution_images_35_5.png",
+        "2025_RA_solution_images_35_6.png",
+        "2025_RA_solution_images_35_7.png",
+        "2025_RA_solution_images_35_8.png"
+      ],
+      "zip_other": [],
+      "pdf": "법전협_2025 LEET 해설_추리논증.pdf",
+      "pdf_pages": 100,
+      "pdf_textlayer_chars_first3": 0,
+      "review_report": "2024-2026_RA_solutions_review_report.md",
+      "existing_output": false
+    },
+    "2026": {
+      "year": 2026,
+      "zip": "2026_RA_official+solutions_package.zip",
+      "zip_md": [
+        "2026_RA_official+solutions.md"
+      ],
+      "zip_png": [
+        "2026_RA_solution_images_31_1.png",
+        "2026_RA_solution_images_31_2.png"
+      ],
+      "zip_other": [],
+      "pdf": "법전협_2026 LEET 해설_추리논증.pdf",
+      "pdf_pages": 92,
+      "pdf_textlayer_chars_first3": 0,
+      "review_report": "2024-2026_RA_solutions_review_report.md",
+      "existing_output": false
+    }
+  },
+  "fix_validation": {
+    "2023": {
+      "status": "completed",
+      "items": 40,
+      "numbering_continuous_01_40": true,
+      "content_area_present": 40,
+      "answer_present": 40,
+      "solution_sections": {"제시문 해설": 40},
+      "utf8_valid": true,
+      "bom": false,
+      "ocr_artifacts_remaining": 0,
+      "choice_labels_normalized": true,
+      "answer_labels_removed": true,
+      "latex_dollar_balanced": true,
+      "images_linked_present": 11,
+      "label_correction": "Q33·Q34 case labels ㉠㉡㉢ -> ㉮㉯㉰ (PDF p079-082, 정답 무영향)",
+      "answer_notation": "(n)",
+      "answer_distribution": {"1": 9, "2": 10, "3": 7, "4": 8, "5": 6},
+      "content_area_distribution": {"규범": 13, "인문": 12, "사회": 6, "논리학ㆍ수학": 3, "과학기술": 6},
+      "review_report_note": "리포트 '수식중심(01,08,19,31,36,40)'보다 손상 광범위(Q12~21,26~30,37~39 등 재작성)",
+      "backup": "_backups/2023_solution_files_20260705_002850",
+      "report": "2023_RA_solutions_fix_report.md"
+    },
+    "2024": {
+      "status": "completed",
+      "items": 40,
+      "numbering_continuous_01_40": true,
+      "content_area_present": 40,
+      "answer_present": 40,
+      "solution_sections": {"제시문 해설": 40, "<보기> 해설": 34, "선택지별 해설": 6},
+      "utf8_valid": true,
+      "bom": false,
+      "ocr_artifacts_remaining": 0,
+      "latex_dollar_balanced": true,
+      "images_linked_present": 7,
+      "images_recropped": ["34_4", "35_1"],
+      "answer_correction": "Q35 (2) 'B형 여학생 수 감소' -> 'AB형 여학생 수 감소' (PDF p080)",
+      "answer_notation": "(n) (2025/2026과 동일)",
+      "answer_distribution": {"1": 8, "2": 7, "3": 10, "4": 7, "5": 8},
+      "content_area_distribution": {"규범": 14, "인문": 11, "사회": 7, "논리학ㆍ수학": 3, "과학기술": 5},
+      "source_risk": "Q27 제시문해설 원문 오식 'X와 Y는'(논리상 'Y는'; 원문대로 전사, 정답 무영향)",
+      "backup": "_backups/2024_solution_files_20260704_210308",
+      "report": "2024_RA_solutions_fix_report.md"
+    },
+    "2026": {
+      "status": "completed",
+      "items": 40,
+      "numbering_continuous_01_40": true,
+      "content_area_present": 40,
+      "answer_present": 40,
+      "utf8_valid": true,
+      "bom": false,
+      "bytes": 137463,
+      "ocr_artifacts_remaining": 0,
+      "table_dot_placeholders_remaining": 0,
+      "images_linked_present": 2,
+      "answer_correction": "Q18 (2)->(1) per PDF p043-044",
+      "answer_distribution": {"1": 8, "2": 9, "3": 9, "4": 6, "5": 8},
+      "content_area_distribution": {"규범": 13, "인문": 11, "사회": 7, "논리학ㆍ수학": 3, "과학기술": 6},
+      "backup": "_backups/2026_solution_files_20260704_190442",
+      "report": "2026_RA_solutions_fix_report.md"
+    },
+    "2025": {
+      "status": "completed",
+      "items": 40,
+      "numbering_continuous_01_40": true,
+      "content_area_present": 40,
+      "answer_present": 40,
+      "utf8_valid": true,
+      "bom": false,
+      "ocr_artifacts_remaining": 0,
+      "images_linked_present": 19,
+      "images_recropped": 19,
+      "recrop_mandatory_fixed": ["33_1", "34_3", "34_4", "34_5", "35_6"],
+      "answer_distribution": {"1": 9, "2": 8, "3": 8, "4": 9, "5": 6},
+      "backup": "_backups/2025_solution_files_20260704_200841",
+      "report": "2025_RA_solutions_fix_report.md"
+    },
+    "2020": {
+      "status": "completed",
+      "items": 40,
+      "numbering_continuous_01_40": true,
+      "answer_present": 40,
+      "content_area_present": 40,
+      "utf8_valid": true,
+      "bom": false,
+      "bytes": 53067,
+      "ocr_artifacts_remaining": 0,
+      "table_dot_placeholders_remaining": 0,
+      "images_linked_present": 0,
+      "tables_html": 2,
+      "tables_markdown": 4,
+      "images_moved_to_unused": ["16_1", "16_2", "28_1", "31_1", "31_2", "40_1"],
+      "answer_correction": "Q07 <보기> ㄹ 누락 복구(정답 ⑤); Q12 정답 ⑤ 확정",
+      "answer_notation": "circled ①-⑤ (PDF 원문; 2025/2026 (n) 표기와 상이)",
+      "answer_distribution": {"1": 7, "2": 8, "3": 9, "4": 7, "5": 9},
+      "source_risk": "Q33 ⑤ 서열 인쇄 불일치(원문대로 전사, 정답② 무영향)",
+      "backup": "_backups/2020_solution_files_20260704_210407",
+      "report": "2020_RA_solutions_fix_report.md"
+    },
+    "2019": {
+      "status": "completed",
+      "items": 40,
+      "numbering_continuous_01_40": true,
+      "answer_present": 40,
+      "content_area_present": 40,
+      "utf8_valid": true,
+      "bom": false,
+      "bytes": 47454,
+      "ocr_artifacts_remaining": 0,
+      "body_modified": false,
+      "images_linked_present": 7,
+      "answer_notation": "circled ①-⑤ (PDF 원문)",
+      "answer_distribution": {"1": 6, "2": 6, "3": 10, "4": 10, "5": 8},
+      "backup": "_backups/2019_solution_files_20260704_210407",
+      "report": "2019_RA_solutions_fix_report.md"
+    },
+    "2012": {
+      "status": "completed",
+      "items": 35,
+      "ocr_artifacts_remaining": 0,
+      "report": "2012_fix_report.md"
+    },
+    "2013": {
+      "status": "in_progress",
+      "items": 35,
+      "completed_items": "Q01-Q08",
+      "report": null
+    }
+  }
+}
